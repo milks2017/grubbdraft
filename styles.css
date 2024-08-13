@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffccdd; /* Light pink background */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffccdd; /* Light pink */
+}
+
+h1 {
+    font-size: 3em;
+    color: #ff6699; /* Medium pink */
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 2px solid #ff99cc; /* Dark pink */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.content {
+    font-size: 1.2em;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ffccdd; /* Light pink */
+    margin-top: 20px;
+    border-top: 2px solid #ff99cc; /* Dark pink */
+}
+
+.link-to-portfolio, .link-to-home {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    color: #ff6699; /* Medium pink */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.link-item {
+    margin: 10px 0;
+}
